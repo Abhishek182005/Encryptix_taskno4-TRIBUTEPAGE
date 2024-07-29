@@ -1,5 +1,5 @@
 # TRIBUTEPAGE
-This is the 4th task of the Encryptix internship. The task was to build a tribute page for someone I admire the most.<br>
+Motive of this wesbite was to build a tribute page for someone I admire the most.<br>
 Since I admire Chhatrapati Shivaji Maharaj, I built a tribute page dedicated to him.<br>
 This page includes a forts page, a legacy page, and many more sections.<br>
 Through this project, I learned how to use cards, create cross-page connections using IDs, and make a timeline.
